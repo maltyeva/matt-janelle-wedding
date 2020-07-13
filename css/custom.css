@@ -1,0 +1,14 @@
+/* FONTS */
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+
+h1 {
+  font-family: 'Oswald', cursive;
+}
+
+body {
+  color: #333;
+  background: #fcfcfc;
+  /*font-family: 'Raleway', 'Helvetica', sans-serif;*/
+  overflow-x: hidden;
+}
